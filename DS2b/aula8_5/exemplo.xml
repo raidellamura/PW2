@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livros>
+ <livro>
+ <titulo>Dom Casmurro</titulo>
+ <autor>Machado de Assis</autor>
+ <ano>1899</ano>
+ </livro>
+<livro><titulo>Novo Livro</titulo><autor>Autor Desconhecido</autor><ano>2024</ano></livro></livros>
